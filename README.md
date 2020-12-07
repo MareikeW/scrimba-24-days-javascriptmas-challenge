@@ -25,3 +25,7 @@ Solution: https://scrimba.com/scrim/cod7048929aa60abb123f779c
 Day 6: Sort By Length - Given an array of strings, sort them in the order of increasing lengths. If two strings have the same length, their relative order must be the same as in the initial array.
 
 Solution: https://scrimba.com/scrim/co1be4d2da9327f6bddfb67bb
+
+Day 7: Count Vowel Consonant - You are given a string s that consists of only lowercase English letters. If vowels are given a value of 1 and consonants are given a value of 2, return the sum of all the letters in the input string.
+
+Solution: https://scrimba.com/scrim/co5a8471f88ef01eed75315e8
