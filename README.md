@@ -29,3 +29,7 @@ Solution: https://scrimba.com/scrim/co1be4d2da9327f6bddfb67bb
 Day 7: Count Vowel Consonant - You are given a string s that consists of only lowercase English letters. If vowels are given a value of 1 and consonants are given a value of 2, return the sum of all the letters in the input string.
 
 Solution: https://scrimba.com/scrim/co5a8471f88ef01eed75315e8
+
+Day 8: In this challenge a casino has asked you to make an online dice that works just like it would in real life. Now when the users clicks the dice on the screen the dice is expected to show one of the faces randomly.
+
+Solution: https://scrimba.com/scrim/cofeb456b8c4d3d468e914aee
