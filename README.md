@@ -33,3 +33,7 @@ Solution: https://scrimba.com/scrim/co5a8471f88ef01eed75315e8
 Day 8: In this challenge a casino has asked you to make an online dice that works just like it would in real life. Now when the users clicks the dice on the screen the dice is expected to show one of the faces randomly.
 
 Solution: https://scrimba.com/scrim/cofeb456b8c4d3d468e914aee
+
+Day 9: Sum Odd Fibonacci Numbers - Given a positive integer num, return the sum of all odd Fibonacci numbers that are less than or equal to num.
+
+Solution: https://scrimba.com/scrim/coce449cebb2f0719f7870c4a
