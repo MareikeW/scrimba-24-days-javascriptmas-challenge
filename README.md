@@ -37,3 +37,7 @@ Solution: https://scrimba.com/scrim/cofeb456b8c4d3d468e914aee
 Day 9: Sum Odd Fibonacci Numbers - Given a positive integer num, return the sum of all odd Fibonacci numbers that are less than or equal to num.
 
 Solution: https://scrimba.com/scrim/coce449cebb2f0719f7870c4a
+
+Day 10: Adjacent Elements Product - Given an array of integers, find the pair of adjacent elements that has the largest product and return that product.
+
+Solution: https://scrimba.com/scrim/co1254b779d7988af55b840d2
