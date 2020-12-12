@@ -45,3 +45,7 @@ Solution: https://scrimba.com/scrim/co1254b779d7988af55b840d2
 Day 11: Avoid Obstacles - You are given an array of integers representing coordinates of obstacles situated on a straight line. Find the minimal length of the jump to avoid all the obstacles.
 
 Solution: https://scrimba.com/scrim/co8214e2ca8d47a5526c8691b
+
+Day 12: Valid - Time - Check if the given string is a correct time representation of the 24-hour clock.
+
+Solution: https://scrimba.com/scrim/co2a646a3902e1bef5a9e361c
