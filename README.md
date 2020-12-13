@@ -49,3 +49,7 @@ Solution: https://scrimba.com/scrim/co8214e2ca8d47a5526c8691b
 Day 12: Valid - Time - Check if the given string is a correct time representation of the 24-hour clock.
 
 Solution: https://scrimba.com/scrim/co2a646a3902e1bef5a9e361c
+
+Day 13: Extract Each Kth - Given an array of integers, remove each kth element from it.
+
+Solution: https://scrimba.com/scrim/cofa64bcca51da5744bd1d291
