@@ -57,3 +57,7 @@ Solution: https://scrimba.com/scrim/cofa64bcca51da5744bd1d291
 Day 14: Maximal Adjacent Difference - Given an array of integers, find the maximal absolute difference between any two of its adjacent elements.
 
 Solution: https://scrimba.com/scrim/co4f342529dfc08bf85b47bc2
+
+Day 22: Extract Matrix Column - Given a rectangular matrix and an integer column, return an array containing the elements of the columnth column of the given matrix.
+
+Solution: https://scrimba.com/scrim/co4ae48bc8a53e723e069cefc
