@@ -61,3 +61,8 @@ Solution: https://scrimba.com/scrim/co4f342529dfc08bf85b47bc2
 Day 22: Extract Matrix Column - Given a rectangular matrix and an integer column, return an array containing the elements of the columnth column of the given matrix.
 
 Solution: https://scrimba.com/scrim/co4ae48bc8a53e723e069cefc
+
+Day 23: Social Media Input - Tweet Button - We are making a Social Media Character Counter! We want to display the available characters LEFT.
+Using the Keydown event should help you here. When the characters reach 20 and below, we want them to turn red. So we will use Javascript to add that styling to it. If the characters drop below 0, we want the button to be disabled BUT if there are only 0 characters left, we should still be able to tweet.
+
+Solution: https://scrimba.com/scrim/cocda4af6b52c1c675403ef0b
